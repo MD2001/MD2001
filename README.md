@@ -64,8 +64,8 @@
 ## 📫 Connect with Me  
 
 🌐 **Portfolio:** *Coming soon...*  
-💼 **LinkedIn:** [linkedin.com/in/mohamed-diaa](https://linkedin.com/in/mohamed-diaa)  
-📧 **Email:** *mohamed.diaa@example.com*  
+💼 **LinkedIn:** [linkedin.com/in/mohamed-diaa](https://linkedin.com/in/mohamed-diaa-386278364)  
+📧 **Email:** *mdiea0581@gmail.com*  
 💻 **GitHub:** [github.com/mohamed-diaa](https://github.com/mohamed-diaa)  
 
 ---
