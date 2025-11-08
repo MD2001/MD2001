@@ -1,43 +1,15 @@
-# 👋 Hi there, I'm Mohamed Diaa!  
-
-🎓 **Master’s Student in Computer Science**  
-💻 **Software Engineer | Backend Developer | Researcher**  
-🚀 Passionate about **AI, Software Architecture, and Scalable Web Systems**  
-
----
-
-## 🧠 About Me  
-
-- 🔭 Currently pursuing a **Master’s degree in Computer Science** (focus: Neural Network Compression & Efficient Training).  
-- 💡 Passionate about **Backend Development**, **System Design**, and **Machine Learning**.  
-- 🧩 Love solving complex problems and optimizing performance.  
-- 🌱 Currently exploring:  
-  - Advanced **Laravel** & **PHP Architecture**  
-  - **TensorFlow**, **PyTorch**, and **Model Compression**  
-  - **Microservices** & **Clean Code Patterns**  
-- 🧑‍🏫 Always eager to learn, teach, and collaborate on open-source projects.  
-
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Programming Languages  
-🟦 C / C++ | 🐍 Python | ☕ Java | 🐘 PHP | 🟨 JavaScript | ⚙️ Bash | 🧮 MATLAB  
-
-### ⚙️ Backend Development  
-🔹 **PHP** (Core + MVC)  
-🔹 **Laravel** (Eloquent ORM, Middleware, Queues, Sanctum)  
-🔹 **RESTful APIs** & JSON  
-🔹 **MySQL** / **PostgreSQL** / **SQLite**  
-🔹 **Nginx** / **Apache**  
-
-### 🧱 Frontend (Basic)  
-🎨 HTML5 | 🎭 CSS3 | ⚡ TailwindCSS | 🧩 Alpine.js | 🧠 React (Basics)
-
-### ☁️ DevOps & Tools  
-🐧 Linux | 🐳 Docker | ⚙️ Git & GitHub | 🧰 VS Code | ☁️ Google Colab | 🧠 Jupyter  
-
-### 🧬 AI & Research  
+👋 Hi, I'm Mohamed Diaa!
+💻 Backend Developer | Software Engineer | Researcher
+🤖 Passionate about Machine Learning and Scalable Web Systems
+🧠 About Me
+🔭 Currently pursuing a Master’s in Computer Science (focus: Neural Network Compression & Efficient Training).
+💡 Specialize in Backend Development and Machine Learning.
+🧩 Enjoy solving complex problems and optimizing performance.
+🌱 Currently exploring:
+Advanced Laravel & PHP Architecture
+TensorFlow & PyTorch
+Efficient and Compressed Neural Networks
+🧑‍🏫 Eager to collaborate on challenging projects and contribute to open-source### 🧬 AI & Research  
 🧠 TensorFlow | 🔥 PyTorch | 🧮 NumPy | 📊 Matplotlib | 📚 Scikit-Learn  
 📖 Research Focus: *Deep Compression, Pruning, Quantization, Sparse Inference*
 
